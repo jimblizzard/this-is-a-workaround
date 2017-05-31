@@ -6,6 +6,9 @@ using System.Globalization;
  
 namespace Calc.Core
 {
+    //
+    // Note: This is sample code for demonstration purposes only and is provided as-is. 
+    //
     public class CalcEngine
     {
  
